@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 📂 Notable Projects
+- [Project Name](https://github.com/YOUR_USERNAME/PROJECT_REPO): 설명 한 줄
+- ...
+
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
