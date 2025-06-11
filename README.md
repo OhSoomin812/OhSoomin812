@@ -14,11 +14,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-## GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OhSoomin812)](https://github.com/OhSoomin812/github-readme-stats)
-
 <!--
 **OhSoomin812/OhSoomin812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
