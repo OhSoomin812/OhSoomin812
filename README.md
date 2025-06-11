@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
 <!--
 **OhSoomin812/OhSoomin812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
