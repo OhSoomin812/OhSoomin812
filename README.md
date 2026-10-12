@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:4169E1&height=200&section=header&text=Soomin%20Oh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=60&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EB%B6%88%ED%8E%B8%EC%9D%84+%EC%BD%94%EB%93%9C%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Spring+Boot+%7C+Java+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=800&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&height=50&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98+%EB%B6%88%ED%8E%B8%EC%9D%84+%EC%BD%94%EB%93%9C%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Spring+Boot+%7C+Java+Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=OhSoomin812&show_icons=true&theme=react&hide_border=true&count_private=true&icon_color=6DB33F&title_color=4169E1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhSoomin812&layout=compact&theme=react&hide_border=true&title_color=4169E1" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhSoomin812&layout=compact&theme=react&hide_border=true&title_color=4169E1&hide=jupyter%20notebook&langs_count=8" alt="Top Languages" />
   <br/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=OhSoomin812&theme=react&hide_border=true&ring=6DB33F&fire=4169E1&currStreakLabel=6DB33F" alt="GitHub Streak" />
 </div>
